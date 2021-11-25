@@ -8,3 +8,4 @@ This notebook has to run on a server with access to a spark cluster
 ```
 conda env create -f environment.yml
 ```
+Note you'll need to create a local `output` folder in the repo root path.
